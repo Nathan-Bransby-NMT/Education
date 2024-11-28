@@ -2,24 +2,14 @@
 
 ## Collection of Exam Resources
 
-<details>
-  <summary>
-    <li>
-      MongoDB &nbsp;
-      <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB">
-        <samp> [see more] </samp>
-      </a>
-    </li>
-  </summary>
-  <blockquote>
+<ul>
+  <li>
+    MongoDB <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB"></a>
     <ul>
-      <!-- MongoDB Associate Data Modeler Exam -->
+    <!-- MongoDB Associate Data Modeler Exam -->
       <li>
-        <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB/Associate-Data-Modeler">
-          Associate Data Modeler Exam
-        </a>
-        <br>
+        <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB/Associate-Data-Modeler">Associate Data Modeler Exam</a>
       </li>
     </ul>
-  </blockquote>
-</details>
+  </li>
+</ul>
