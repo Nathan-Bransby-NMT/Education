@@ -11,7 +11,7 @@ This repository contains an extensive collection helpful study guides and resour
 
 <ul>
   <li>
-    <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams">
+    <a href="https://github.com/Nathan-Bransby-NMT/Education/tree/main/Exams">
       <b>Exam Preparation</b>
     </a>
     <br>
@@ -27,7 +27,7 @@ This repository contains an extensive collection helpful study guides and resour
           <ul>
             <li> <!-- MongoDB Associate Data Modeler Exam -->
               Material for: &nbsp;
-              <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB/Associate-Data-Modeler">
+              <a href="https://github.com/Nathan-Bransby-NMT/Education/tree/main/Exams/MongoDB/Associate-Data-Modeler">
                 MongoDB Associate Data Modeler Exam
               </a>
             </li>
@@ -36,7 +36,7 @@ This repository contains an extensive collection helpful study guides and resour
               Full the full collection of MongoDB University exam resources:
               <br>
               <button>
-                <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB" style="text-decoration: none; color: inherit;">
+                <a href="https://github.com/Nathan-Bransby-NMT/Education/tree/main/Exams/MongoDB/" style="text-decoration: none; color: inherit;">
                   visit here
                 </a>
               </button>

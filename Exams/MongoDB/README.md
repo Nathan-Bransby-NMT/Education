@@ -9,7 +9,7 @@ $${\color{ffff11}Study \space Guides}$$
 
 <ul>
   <li>
-    <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB/Associate-Data-Modeler">
+    <a href="https://github.com/Nathan-Bransby-NMT/Education/tree/main/Exams/MongoDB/Associate-Data-Modeler">
       MongoDB Associate Data Modeler Exam Guide
     </a>
     <details>

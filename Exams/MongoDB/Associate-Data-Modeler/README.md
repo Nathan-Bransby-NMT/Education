@@ -16,6 +16,7 @@
       Take the Exam
     </a>
   </button>
+  &nbsp;&nbsp;
   <button>
     <a href="#study-resources" style="text-decoration: none; color: inherit; font-size:16px;"
     >
@@ -181,7 +182,7 @@ The learning path is delivered for free on [MongoDB University](https://learn.mo
 
 ### Other Material
 
-- [MongoDB Associate Data Modeler - Study Guide](https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB/Associate-Data-Modeler/AssociateDataModelerExamGuide31.pdf)
+- [MongoDB Associate Data Modeler - Study Guide](https://github.com/Nathan-Bransby-NMT/Education/blob/main/Exams/MongoDB/Associate-Data-Modeler/AssociateDataModelerExamGuide31.pdf)
 
 ### Study Tips
 
