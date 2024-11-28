@@ -8,7 +8,7 @@
     <ul>
     <!-- MongoDB Associate Data Modeler Exam -->
       <li>
-        <a href="https://github.com/Nathan-Bransby-NMT/Education/Exams/MongoDB/Associate-Data-Modeler">Associate Data Modeler Exam</a>
+        <a href="https://github.com/Nathan-Bransby-NMT/Education/tree/main/Exams/MongoDB/Associate-Data-Modeler">Associate Data Modeler Exam</a>
       </li>
     </ul>
   </li>
